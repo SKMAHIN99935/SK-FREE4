@@ -2,11 +2,11 @@
 
 cd
 
-rm -rf  MR-DARK
+rm -rf SK-FREE4 
 
-git clone https://github.com/JISAN-404/MR-DARK
+git clone https://github.com/SKMAHIN99935/SK-FREE4.git
 
-cd MR-DARK
+cd SK-FREE4
 
 git pull
 
